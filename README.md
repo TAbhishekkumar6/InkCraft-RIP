@@ -38,7 +38,15 @@ This project aims to create a feature-rich alternative to commercial DTG RIP sof
 *Installation instructions will be provided once the project reaches beta stage*
 
 ## Contributing
-Contributions are welcome! Please check the [CONTRIBUTING.md](./docs/CONTRIBUTING.md) file for guidelines.
+We welcome contributions from the community! Whether you're fixing bugs, adding new features, improving documentation, or spreading the word - we'd love to have you as part of the project.
+
+Please check our [Contributing Guidelines](../CONTRIBUTING.md) for details on:
+- How to get started
+- Development workflow
+- Bug reporting
+- Feature requests
+- Coding standards
+- Pull request process
 
 ## License
 This project is licensed under the [GPL v3](LICENSE)
