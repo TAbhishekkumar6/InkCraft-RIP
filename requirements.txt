@@ -1,0 +1,6 @@
+pyusb>=1.2.1
+pyshark>=0.5.3  # Optional, for PCAP file analysis
+pillow>=9.0.0  # For image processing
+numpy>=1.20.0  # For numerical operations
+matplotlib>=3.5.0  # For visualization
+pyyaml>=6.0.0  # For configuration files 
